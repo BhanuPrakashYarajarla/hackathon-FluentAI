@@ -40,3 +40,7 @@ Technologies Used
 --LanguageTool API – For grammar checking and corrections.
 
 --OpenCV & Dlib Models – For eye-tracking and facial landmark detection.
+
+API Documentation:(Link)
+
+[📄 Download the FluentAI Documentation (PDF)](https://github.com/BhanuPrakashYarajarla/hackathon-FluentAI/blob/main/FluentAI%20API%20Documentation.pdf?raw=true)
