@@ -24,7 +24,8 @@ Technologies Used
 
 --JavaScript (HTML, CSS, JS in templates) (for frontend interaction)
 
-->Frameworks & Libraries : 
+->Frameworks & Libraries :
+
 --Flask – Web framework for handling HTTP requests.
 
 --OpenCV – For real-time video processing and image manipulation.
@@ -40,6 +41,8 @@ Technologies Used
 --LanguageTool API – For grammar checking and corrections.
 
 --OpenCV & Dlib Models – For eye-tracking and facial landmark detection.
+
+->Chatbase - It is used for training and modelling a chatbot.
 
 API Documentation:(Link)
 
