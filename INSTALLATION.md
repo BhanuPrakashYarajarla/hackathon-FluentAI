@@ -57,7 +57,7 @@ Step 3: Download Dlib Pre-trained Model
 
 Dlib requires a face landmark detection model. Download and extract it:
 
-wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 -- download the model from the link given here, because the model size is bigger to uplaod in github
+wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 -- download the model from the link given here, because the model size is bigger to upload in github
 
 bzip2 -d shape_predictor_68_face_landmarks.dat.bz2
 
